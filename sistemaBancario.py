@@ -8,6 +8,7 @@
 # - O Sistema deve permitir saques de até R$ 500,00 por operação. [OK]
 # - O sistema deve exibir um extrato com os últimos saques e depósitos. [OK]
 # - O sistema deve permitir o encerramento do programa. [OK]
+#
  
   
 menu = """=== Sistema Bancário ===
